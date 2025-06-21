@@ -11,12 +11,16 @@
 
 </div>
 
+<div align="center">
+  
 [📖 Contexto del estudio](#contexto-del-estudio) |
 [🎥 Galería de experimentos](#galería-de-experimentos) |
 [💡 Cómo funciona](#cómo-funciona) |
 [🛠️ Requisitos](#requisitos) |
 [🐛 Reportar problemas](https://github.com/TU_USUARIO/TU_REPO/issues) |
 [📬 Contacto](#contacto)
+
+</div>
 
 <div align="center">
 
