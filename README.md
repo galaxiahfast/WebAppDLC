@@ -1,3 +1,19 @@
+<div align="center">
+
+  <a href="https://youtu.be/m67sH9O7hhc" target="_blank">
+    <img src="https://img.youtube.com/vi/m67sH9O7hhc/hqdefault.jpg" width="300">
+  </a>
+  
+  <a href="https://youtu.be/zzlioXXrmyQ" target="_blank">
+    <img src="https://img.youtube.com/vi/zzlioXXrmyQ/hqdefault.jpg" width="300">
+  </a>
+  
+  <a href="https://youtu.be/mesfVmD8fKc" target="_blank">
+    <img src="https://img.youtube.com/vi/mesfVmD8fKc/hqdefault.jpg" width="300">
+  </a>
+
+</div>
+
 # ¡Bienvenido! 👋
 
 **[PoseDoggo](https://github.com/galaxiahfast/WebAppDLC/blob/main/README.md)** es una aplicación web no oficial basada en el software **[DeepLabCut™️](https://deeplabcut.github.io/DeepLabCut/README.html)** que realiza análisis automático de posturas en perros mediante un entrenamiento para un solo animal, enfocándose en clasificar tres posturas corporales distintas (acostado, parado y erguido sobre las patas traseras) a través del procesamiento de videos de las razas **Setter Inglés**, **Chihuahua** y **Jack Russell Terrier** en entornos específicos.
