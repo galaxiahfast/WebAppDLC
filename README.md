@@ -10,4 +10,4 @@ El desarrollo de esta aplicación web se realizó como caso de estudio para demo
 
 Antes de tomar la decisión de crear este pequeño diseño web, se realizó una comparación con el software libre **[SLEAP™](https://sleap.ai/)** (Social LEAP Estimates Animal Poses) para determinar la mejor opción para el desarrollo del análisis de poses en estos tres experimentos. Tras considerar factores como poder de cómputo, memoria requerida de la GPU, facilidad de uso e información disponible, se seleccionó **[DeepLabCut™️](https://deeplabcut.github.io/DeepLabCut/README.html)**. Esto no implica que uno sea mejor que otro, sino que para esta investigación específica **[DLC™️](https://deeplabcut.github.io/DeepLabCut/README.html)**™️ resultó más adecuado.
 
-[Lee más sobre el proyecto oficial de DeepLabCut aquí](https://sleap.ai/)
+[Lee más sobre el proyecto oficial de SLEAP aquí](https://sleap.ai/)
