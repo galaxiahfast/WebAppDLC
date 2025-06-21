@@ -18,7 +18,7 @@
 [🐛 Reportar problemas](https://github.com/TU_USUARIO/TU_REPO/issues) |
 [📬 Contacto](#contacto)
 
-<p align="center">
+<div align="center">
 
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Versión_de_Python-3.10.15-blue" alt="Python"></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Framework_Flask-3.0.3-lightgrey" alt="Flask"></a>
@@ -36,7 +36,7 @@
   <a href="https://www.ibm.com/mx-es/think/topics/support-vector-machines"><img src="https://img.shields.io/badge/SVM_Modelo_ML-darkslateblue" alt="SVM"></a>
   <a href="https://www.ibm.com/mx-es/think/topics/naive-bayes"><img src="https://img.shields.io/badge/Naive_Bayes_Modelo_ML-goldenrod" alt="Naive Bayes"></a>
 
-</p>
+</div>
 
 # ¡Bienvenido! 👋
 
