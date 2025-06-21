@@ -1,16 +1,8 @@
 <div align="center">
 
-  <a href="https://youtu.be/m67sH9O7hhc" target="_blank">
-    <img src="https://img.youtube.com/vi/m67sH9O7hhc/hqdefault.jpg" width="300">
-  </a>
-  
-  <a href="https://youtu.be/zzlioXXrmyQ" target="_blank">
-    <img src="https://img.youtube.com/vi/zzlioXXrmyQ/hqdefault.jpg" width="300">
-  </a>
-  
-  <a href="https://youtu.be/mesfVmD8fKc" target="_blank">
-    <img src="https://img.youtube.com/vi/mesfVmD8fKc/hqdefault.jpg" width="300">
-  </a>
+  <img src="assets/EXP0001-1.gif" height="200" alt="Experimento 1">
+  <img src="assets/EXP0001-2.gif" height="200" alt="Experimento 2">
+  <img src="assets/EXP0001-3.gif" height="200" alt="Experimento 3">
 
 </div>
 
