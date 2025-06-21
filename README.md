@@ -1,16 +1,16 @@
 <div align="center">
 
-  <img src="assets/EXP0001-1.gif" height="150" alt="EXP0001-1">
-  <img src="assets/EXP0001-2.gif" height="150" alt="EXP0001-2">
-  <img src="assets/EXP0001-3.gif" height="150" alt="EXP0001-3">
+  <img src="assets/EXP0001-1.gif" height="120" alt="EXP0001-1">
+  <img src="assets/EXP0001-2.gif" height="120" alt="EXP0001-2">
+  <img src="assets/EXP0001-3.gif" height="120" alt="EXP0001-3">
 
-  <img src="assets/EXP0002-1.gif" height="150" alt="EXP0002-1">
-  <img src="assets/EXP0002-2.gif" height="150" alt="EXP0002-2">
-  <img src="assets/EXP0002-3.gif" height="150" alt="EXP0002-3">
+  <img src="assets/EXP0002-1.gif" height="120" alt="EXP0002-1">
+  <img src="assets/EXP0002-2.gif" height="120" alt="EXP0002-2">
+  <img src="assets/EXP0002-3.gif" height="120" alt="EXP0002-3">
 
-  <img src="assets/EXP0003-1.gif" height="150" alt="EXP0003-1">
-  <img src="assets/EXP0003-2.gif" height="150" alt="EXP0003-2">
-  <img src="assets/EXP0003-3.gif" height="150" alt="EXP0003-3">
+  <img src="assets/EXP0003-1.gif" height="120" alt="EXP0003-1">
+  <img src="assets/EXP0003-2.gif" height="120" alt="EXP0003-2">
+  <img src="assets/EXP0003-3.gif" height="120" alt="EXP0003-3">
 
 </div>
 
