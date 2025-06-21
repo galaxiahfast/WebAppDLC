@@ -18,21 +18,18 @@
 [🐛 Reportar problemas](https://github.com/TU_USUARIO/TU_REPO/issues) |
 [📬 Contacto](#contacto)
 
-[🔧 Flask (Web Framework)](https://flask.palletsprojects.com/) |
-[🧪 DeepLabCut](https://deeplabcut.github.io/DeepLabCut/) |
-[📦 NumPy](https://numpy.org/) |
-[📊 pandas](https://pandas.pydata.org/) |
-[🧮 scikit-learn (Joblib)](https://scikit-learn.org/stable/modules/model_persistence.html#persistent-models) |
-[📁 Werkzeug](https://werkzeug.palletsprojects.com/) |
-[📂 zipfile (lib estándar)](https://docs.python.org/3/library/zipfile.html) |
-[🧵 threading (lib estándar)](https://docs.python.org/3/library/threading.html) |
-[📜 YAML (PyYAML)](https://pyyaml.org/wiki/PyYAMLDocumentation) |
-[🧬 JSON (lib estándar)](https://docs.python.org/3/library/json.html) |
-[📃 CSV (lib estándar)](https://docs.python.org/3/library/csv.html) |
-[📎 tempfile (lib estándar)](https://docs.python.org/3/library/tempfile.html) |
-[⏱ time (lib estándar)](https://docs.python.org/3/library/time.html) |
-[📂 shutil (lib estándar)](https://docs.python.org/3/library/shutil.html) |
-[🔐 os (lib estándar)](https://docs.python.org/3/library/os.html)
+<p align="center">
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/) |
+[![Flask](https://img.shields.io/badge/Flask-v2.3.3-lightgrey)](https://flask.palletsprojects.com/) |
+[![DeepLabCut](https://img.shields.io/badge/DeepLabCut-2.3.9-yellowgreen)](https://deeplabcut.github.io/DeepLabCut/) |
+[![NumPy](https://img.shields.io/badge/NumPy-1.24.4-lightblue)](https://numpy.org/) |
+[![pandas](https://img.shields.io/badge/pandas-1.5.3-darkgreen)](https://pandas.pydata.org/) |
+[![joblib](https://img.shields.io/badge/joblib-1.3.2-orange)](https://joblib.readthedocs.io/) |
+[![YAML](https://img.shields.io/badge/PyYAML-6.0-brightyellow)](https://pyyaml.org/wiki/PyYAMLDocumentation) |
+[![Werkzeug](https://img.shields.io/badge/Werkzeug-2.3.7-blueviolet)](https://werkzeug.palletsprojects.com/)
+
+</p>
 
 # ¡Bienvenido! 👋
 
