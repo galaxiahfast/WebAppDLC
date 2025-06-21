@@ -20,14 +20,14 @@
 
 <p align="center">
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/) |
-[![Flask](https://img.shields.io/badge/Flask-v2.3.3-lightgrey)](https://flask.palletsprojects.com/) |
-[![DeepLabCut](https://img.shields.io/badge/DeepLabCut-2.3.9-yellowgreen)](https://deeplabcut.github.io/DeepLabCut/) |
-[![NumPy](https://img.shields.io/badge/NumPy-1.24.4-lightblue)](https://numpy.org/) |
-[![pandas](https://img.shields.io/badge/pandas-1.5.3-darkgreen)](https://pandas.pydata.org/) |
-[![joblib](https://img.shields.io/badge/joblib-1.3.2-orange)](https://joblib.readthedocs.io/) |
-[![YAML](https://img.shields.io/badge/PyYAML-6.0-brightyellow)](https://pyyaml.org/wiki/PyYAMLDocumentation) |
-[![Werkzeug](https://img.shields.io/badge/Werkzeug-2.3.7-blueviolet)](https://werkzeug.palletsprojects.com/)
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10.15-blue" alt="Python"></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-3.0.3-lightgrey" alt="Flask"></a>
+  <a href="https://deeplabcut.github.io/DeepLabCut/"><img src="https://img.shields.io/badge/DeepLabCut-3.0.0rc4-yellowgreen" alt="DeepLabCut"></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-1.26.4-lightblue" alt="NumPy"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-2.2.3-darkgreen" alt="pandas"></a>
+  <a href="https://joblib.readthedocs.io/"><img src="https://img.shields.io/badge/joblib-1.4.2-orange" alt="joblib"></a>
+  <a href="https://pyyaml.org/wiki/PyYAMLDocumentation"><img src="https://img.shields.io/badge/PyYAML-6.0.2-brightyellow" alt="PyYAML"></a>
+  <a href="https://werkzeug.palletsprojects.com/"><img src="https://img.shields.io/badge/Werkzeug-3.0.4-blueviolet" alt="Werkzeug"></a>
 
 </p>
 
