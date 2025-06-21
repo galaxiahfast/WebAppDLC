@@ -18,11 +18,21 @@
 [🐛 Reportar problemas](https://github.com/TU_USUARIO/TU_REPO/issues) |
 [📬 Contacto](#contacto)
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-en%20desarrollo-orange)
-![Style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
-![Contribuciones](https://img.shields.io/badge/contribuciones-bienvenidas-brightgreen)
+[🔧 Flask (Web Framework)](https://flask.palletsprojects.com/) |
+[🧪 DeepLabCut](https://deeplabcut.github.io/DeepLabCut/) |
+[📦 NumPy](https://numpy.org/) |
+[📊 pandas](https://pandas.pydata.org/) |
+[🧮 scikit-learn (Joblib)](https://scikit-learn.org/stable/modules/model_persistence.html#persistent-models) |
+[📁 Werkzeug](https://werkzeug.palletsprojects.com/) |
+[📂 zipfile (lib estándar)](https://docs.python.org/3/library/zipfile.html) |
+[🧵 threading (lib estándar)](https://docs.python.org/3/library/threading.html) |
+[📜 YAML (PyYAML)](https://pyyaml.org/wiki/PyYAMLDocumentation) |
+[🧬 JSON (lib estándar)](https://docs.python.org/3/library/json.html) |
+[📃 CSV (lib estándar)](https://docs.python.org/3/library/csv.html) |
+[📎 tempfile (lib estándar)](https://docs.python.org/3/library/tempfile.html) |
+[⏱ time (lib estándar)](https://docs.python.org/3/library/time.html) |
+[📂 shutil (lib estándar)](https://docs.python.org/3/library/shutil.html) |
+[🔐 os (lib estándar)](https://docs.python.org/3/library/os.html)
 
 # ¡Bienvenido! 👋
 
