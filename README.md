@@ -27,17 +27,14 @@
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/Librería_NumPy-1.26.4-lightblue" alt="NumPy"></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Procesamiento_con_pandas-2.2.3-darkgreen" alt="pandas"></a>
   <a href="https://joblib.readthedocs.io/"><img src="https://img.shields.io/badge/Serialización_con_joblib-1.4.2-orange" alt="joblib"></a>
-
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/KNN_Modelo_ml-blueviolet" alt="KNN">
-  <img src="https://img.shields.io/badge/Random_Forest_Modelo_ml-forestgreen" alt="Random Forest">
-  <img src="https://img.shields.io/badge/Decision_Tree_Modelo_ml-darkorange" alt="Decision Tree">
-  <img src="https://img.shields.io/badge/Regresión_Logística_Modelo_ml-crimson" alt="Logistic Regression">
-  <img src="https://img.shields.io/badge/SVM_Modelo_ml-darkslateblue" alt="SVM">
-  <img src="https://img.shields.io/badge/Naive_Bayes_Modelo_ml-goldenrod" alt="Naive Bayes">
+  <a href="https://pyyaml.org/wiki/PyYAMLDocumentation"><img src="https://img.shields.io/badge/Manejo_de_YAML-6.0.2-brightyellow" alt="PyYAML"></a>
+  <a href="https://werkzeug.palletsprojects.com/"><img src="https://img.shields.io/badge/Servidor_Werkzeug-3.0.4-blueviolet" alt="Werkzeug"></a>
+  <a href="https://www.ibm.com/es-es/think/topics/k-nearest-neighbors"><img src="https://img.shields.io/badge/KNN_Modelo_ML-blueviolet" alt="KNN"></a>
+  <a href="https://www.ibm.com/mx-es/think/topics/random-forest"><img src="https://img.shields.io/badge/Random_Forest_Modelo_ML-forestgreen" alt="Random Forest"></a>
+  <a href="https://www.ibm.com/es-es/think/topics/decision-trees"><img src="https://img.shields.io/badge/Decision_Tree_Modelo_ML-darkorange" alt="Decision Tree"></a>
+  <a href="https://www.ibm.com/mx-es/think/topics/logistic-regression"><img src="https://img.shields.io/badge/Regresión_Logística_Modelo_ML-crimson" alt="Logistic Regression"></a>
+  <a href="https://www.ibm.com/mx-es/think/topics/support-vector-machines"><img src="https://img.shields.io/badge/SVM_Modelo_ML-darkslateblue" alt="SVM"></a>
+  <a href="https://www.ibm.com/mx-es/think/topics/naive-bayes"><img src="https://img.shields.io/badge/Naive_Bayes_Modelo_ML-goldenrod" alt="Naive Bayes"></a>
 
 </p>
 
