@@ -20,14 +20,14 @@
 
 <p align="center">
 
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10.15-blue" alt="Python"></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-3.0.3-lightgrey" alt="Flask"></a>
-  <a href="https://deeplabcut.github.io/DeepLabCut/"><img src="https://img.shields.io/badge/DeepLabCut-3.0.0rc4-yellowgreen" alt="DeepLabCut"></a>
-  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-1.26.4-lightblue" alt="NumPy"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-2.2.3-darkgreen" alt="pandas"></a>
-  <a href="https://joblib.readthedocs.io/"><img src="https://img.shields.io/badge/joblib-1.4.2-orange" alt="joblib"></a>
-  <a href="https://pyyaml.org/wiki/PyYAMLDocumentation"><img src="https://img.shields.io/badge/PyYAML-6.0.2-brightyellow" alt="PyYAML"></a>
-  <a href="https://werkzeug.palletsprojects.com/"><img src="https://img.shields.io/badge/Werkzeug-3.0.4-blueviolet" alt="Werkzeug"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Versión_de_Python-3.10.15-blue" alt="Python"></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Framework_Flask-3.0.3-lightgrey" alt="Flask"></a>
+  <a href="https://deeplabcut.github.io/DeepLabCut/"><img src="https://img.shields.io/badge/Biblioteca_DeepLabCut-3.0.0rc4-yellowgreen" alt="DeepLabCut"></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/Librería_NumPy-1.26.4-lightblue" alt="NumPy"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Procesamiento_con_pandas-2.2.3-darkgreen" alt="pandas"></a>
+  <a href="https://joblib.readthedocs.io/"><img src="https://img.shields.io/badge/Serialización_con_joblib-1.4.2-orange" alt="joblib"></a>
+  <a href="https://pyyaml.org/wiki/PyYAMLDocumentation"><img src="https://img.shields.io/badge/Manejo_de_YAML-6.0.2-brightyellow" alt="PyYAML"></a>
+  <a href="https://werkzeug.palletsprojects.com/"><img src="https://img.shields.io/badge/Servidor_Werkzeug-3.0.4-blueviolet" alt="Werkzeug"></a>
 
 </p>
 
