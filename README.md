@@ -32,31 +32,35 @@
   <a href="https://deeplabcut.github.io/DeepLabCut/"><img src="https://img.shields.io/badge/Biblioteca_DeepLabCut-3.0.0rc4-yellowgreen" alt="DeepLabCut"></a>
   <a href="https://sleap.ai/"><img src="https://img.shields.io/badge/Software_SLEAP-1.3.3-ff69b4" alt="SLEAP"></a>
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/Librería_NumPy-1.26.4-lightblue" alt="NumPy"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Procesamiento_con_pandas-2.2.3-darkgreen" alt="pandas"></a>
-  <a href="https://joblib.readthedocs.io/"><img src="https://img.shields.io/badge/Serialización_con_joblib-1.4.2-orange" alt="joblib"></a>
-  <a href="https://pyyaml.org/wiki/PyYAMLDocumentation"><img src="https://img.shields.io/badge/Manejo_de_YAML-6.0.2-brightyellow" alt="PyYAML"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Librería_Pandas-2.2.3-darkgreen" alt="Pandas"></a>
+  <a href="https://joblib.readthedocs.io/"><img src="https://img.shields.io/badge/Serialización_con_Joblib-1.4.2-orange" alt="Joblib"></a>
+  <a href="https://pyyaml.org/wiki/PyYAMLDocumentation"><img src="https://img.shields.io/badge/Manejo_de_PyYAML-6.0.2-brightyellow" alt="PyYAML"></a>
   <a href="https://werkzeug.palletsprojects.com/"><img src="https://img.shields.io/badge/Servidor_Werkzeug-3.0.4-blueviolet" alt="Werkzeug"></a>
-  <a href="https://www.ibm.com/es-es/think/topics/k-nearest-neighbors"><img src="https://img.shields.io/badge/KNN_Modelo_ML-blueviolet" alt="KNN"></a>
-  <a href="https://www.ibm.com/mx-es/think/topics/random-forest"><img src="https://img.shields.io/badge/Random_Forest_Modelo_ML-forestgreen" alt="Random Forest"></a>
-  <a href="https://www.ibm.com/es-es/think/topics/decision-trees"><img src="https://img.shields.io/badge/Decision_Tree_Modelo_ML-darkorange" alt="Decision Tree"></a>
-  <a href="https://www.ibm.com/mx-es/think/topics/logistic-regression"><img src="https://img.shields.io/badge/Regresión_Logística_Modelo_ML-crimson" alt="Logistic Regression"></a>
-  <a href="https://www.ibm.com/mx-es/think/topics/support-vector-machines"><img src="https://img.shields.io/badge/SVM_Modelo_ML-darkslateblue" alt="SVM"></a>
-  <a href="https://www.ibm.com/mx-es/think/topics/naive-bayes"><img src="https://img.shields.io/badge/Naive_Bayes_Modelo_ML-goldenrod" alt="Naive Bayes"></a>
+  
+  <a href="https://www.ibm.com/es-es/think/topics/k-nearest-neighbors"><img src="https://img.shields.io/badge/Modelo_KNN-blueviolet" alt="KNN"></a>
+  <a href="https://www.ibm.com/mx-es/think/topics/random-forest"><img src="https://img.shields.io/badge/Modelo_Random_Forest-forestgreen" alt="Random Forest"></a>
+  <a href="https://www.ibm.com/es-es/think/topics/decision-trees"><img src="https://img.shields.io/badge/Modelo_Decision_Tree-darkorange" alt="Decision Tree"></a>
+  <a href="https://www.ibm.com/mx-es/think/topics/logistic-regression"><img src="https://img.shields.io/badge/Modelo_Regresión_Logística-crimson" alt="Regresión Logística"></a>
+  <a href="https://www.ibm.com/mx-es/think/topics/support-vector-machines"><img src="https://img.shields.io/badge/Modelo_SVM-darkslateblue" alt="SVM"></a>
+  <a href="https://www.ibm.com/mx-es/think/topics/naive-bayes"><img src="https://img.shields.io/badge/Modelo_Naive_Bayes-goldenrod" alt="Naive Bayes"></a>
+
   <a href="https://www.pexels.com/video/close-up-view-of-a-cute-black-and-tan-short-coated-dog-7682696/"><img src="https://img.shields.io/badge/Video_de_referencia-Pexels_KoolShooters-9cf" alt="Video de Pexels"></a>
 
 </div>
 
 # ¡Bienvenido! 👋
 
-**[PoseDoggo](https://github.com/galaxiahfast/WebAppDLC/blob/main/README.md)** es una aplicación web no oficial basada en el software **[DeepLabCut™️](https://deeplabcut.github.io/DeepLabCut/README.html)** que realiza análisis automático de posturas en perros mediante un entrenamiento para un solo animal, enfocándose en clasificar tres posturas corporales distintas (acostado, parado y erguido sobre las patas traseras) a través del procesamiento de videos de las razas **Setter Inglés**, **Chihuahua** y **Jack Russell Terrier** en entornos específicos.
+**[PoseDoggo](https://github.com/galaxiahfast/WebAppDLC/blob/main/README.md)** es una aplicación web no oficial desarrollada en framework Flask que utiliza las funciones del software **[DeepLabCut™️](https://deeplabcut.github.io/DeepLabCut/README.html)** en Python e incorpora [aprendizaje automático](https://www.ibm.com/mx-es/think/topics/machine-learning) y [aprendizaje profundo](https://www.ibm.com/es-es/think/topics/deep-learning) para realizar análisis automático enfocándose en clasificar tres posturas corporales distintas (acostado, parado y erguido sobre las patas traseras) en perros mediante un entrenamiento para un solo animal, a través del procesamiento de videos de las razas **Setter Inglés**, **Chihuahua** y **Jack Russell Terrier** en entornos específicos.
 
 [Lee más sobre el proyecto oficial de DeepLabCut aquí](https://github.com/DeepLabCut/DeepLabCut)
 
 # Contexto del estudio
 
-El desarrollo de esta aplicación web se realizó como caso de estudio para demostrar la integración funcional entre **[programación](https://www.w3schools.com/programming/prog_programming.php)**, **[aprendizaje automático](https://www.ibm.com/mx-es/think/topics/machine-learning)** y **[aprendizaje profundo](https://www.ibm.com/es-es/think/topics/deep-learning)** en el análisis de aspectos complejos del comportamiento canino que no podrían investigarse mediante métodos cuantitativos tradicionales.
+**[PoseDoggo](https://github.com/galaxiahfast/WebAppDLC/blob/main/README.md)** fue desarrollada como caso de estudio dentro de una tesis de licenciatura con el objetivo de demostrar cómo se puede lograr una integración funcional de programación orientada al **[aprendizaje automático](https://www.ibm.com/mx-es/think/topics/machine-learning)** y **[aprendizaje profundo](https://www.ibm.com/es-es/think/topics/deep-learning)** cuando se aplican al análisis de aspectos complejos de los comportamientos de perros, especialmente aquellos patrones de conducta que resultan difíciles de estudiar o que no podrían investigarse de manera efectiva mediante el uso de métodos cuantitativos tradicionales o enfoques experimentales convencionales en el campo de la **[etología](https://www.menteyciencia.com/etologia-que-es-y-cual-es-su-objeto-de-estudio/)** canina contemporánea.
 
-Antes de tomar la decisión de crear este pequeño diseño web, se realizó una comparación con el software libre **[SLEAP™️](https://sleap.ai/)** (Social LEAP Estimates Animal Poses) para determinar la mejor opción para el desarrollo del análisis de poses en estos tres experimentos. Tras considerar factores como poder de cómputo, memoria requerida de la GPU, facilidad de uso e información disponible, se seleccionó **[DeepLabCut™️](https://deeplabcut.github.io/DeepLabCut/README.html)**. Esto no implica que uno sea mejor que otro, sino que para esta investigación específica **[DLC™️](https://deeplabcut.github.io/DeepLabCut/README.html)** resultó más adecuado.
+Como parte del proceso de **[PoseDoggo](https://github.com/galaxiahfast/WebAppDLC/blob/main/README.md)**, se realizó un análisis comparativo entre las herramientas de software libre **[SLEAP (Social LEAP Estimates Animal Poses)™️](https://sleap.ai/)** y **[DeepLabCut (DLC)™️](https://deeplabcut.github.io/DeepLabCut/README.html)** con el objetivo de identificar la alternativa más adecuada para implementar la detección de posturas en los perros definidos para los tres experimentos descritos anteriormente. Los criterios de evaluación incluyeron los requerimientos de poder de cómputo, las necesidades de memoria para la ejecución en GPU, la facilidad de uso del sistema y la disponibilidad de documentación técnica, lo que condujo a la selección de **[DeepLabCut™️](https://deeplabcut.github.io/DeepLabCut/README.html)**. Es importante aclarar que esto no implica que una herramienta sea mejor que otra, sino que, para esta investigación específica, **[DLC™️](https://deeplabcut.github.io/DeepLabCut/README.html)** resultó más adecuado.
+
+A partir de esta selección surgió la idea del caso de estudio para el desarrollo del análisis de poses en estos tres experimentos de manera automática, creando una interfaz web intuitiva que, mediante modificaciones en el código de la aplicación, permitiera a los investigadores procesar y analizar videos de comportamiento canino sin requerir conocimientos avanzados de programación o configuraciones complejas de software especializado.
 
 [Lee más sobre el proyecto oficial de SLEAP aquí](https://sleap.ai/)
 
