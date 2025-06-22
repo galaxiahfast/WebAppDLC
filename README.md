@@ -41,6 +41,7 @@
   <a href="https://www.ibm.com/mx-es/think/topics/logistic-regression"><img src="https://img.shields.io/badge/Regresión_Logística_Modelo_ML-crimson" alt="Logistic Regression"></a>
   <a href="https://www.ibm.com/mx-es/think/topics/support-vector-machines"><img src="https://img.shields.io/badge/SVM_Modelo_ML-darkslateblue" alt="SVM"></a>
   <a href="https://www.ibm.com/mx-es/think/topics/naive-bayes"><img src="https://img.shields.io/badge/Naive_Bayes_Modelo_ML-goldenrod" alt="Naive Bayes"></a>
+  <a href="https://www.pexels.com/video/close-up-view-of-a-cute-black-and-tan-short-coated-dog-7682696/"><img src="https://img.shields.io/badge/Video_de_referencia-Pexels_KoolShooters-9cf" alt="Video de Pexels"></a>
 
 </div>
 
