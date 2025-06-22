@@ -1,15 +1,15 @@
-<img src="assets/img/tittle.png" width="2000">
+<img src="galeria_visual_readme/img/titulo_principal.png" width="2000">
 
 <div align="center">
 
-  <img src="assets/E01_V02_GIFT.gif" height="120" alt="E01_V02_GIFT">
-  <img src="assets/E01_V03_GIFT.gif" height="120" alt="E01_V03_GIFT">
+  <img src="galeria_visual_readme/experimento_001_video_002.gif" height="120" alt="experimento_001_video_002">
+  <img src="galeria_visual_readme/experimento_001_video_003.gif" height="120" alt="experimento_001_video_003">
 
-  <img src="assets/E02_V01_GIFT.gif" height="120" alt="E02_V01_GIFT">
-  <img src="assets/E02_V03_GIFT.gif" height="120" alt="E02_V03_GIFT">
+  <img src="galeria_visual_readme/experimento_002_video_001.gif" height="120" alt="experimento_002_video_001">
+  <img src="galeria_visual_readme/experimento_002_video_003.gif" height="120" alt="experimento_002_video_003">
 
-  <img src="assets/E03_V01_GIFT.gif" height="120" alt="E03_V01_GIFT">
-  <img src="assets/E03_V02_GIFT.gif" height="120" alt="E03_V02_GIFT">
+  <img src="galeria_visual_readme/experimento_003_video_001.gif" height="120" alt="experimento_003_video_001">
+  <img src="galeria_visual_readme/experimento_003_video_002.gif" height="120" alt="experimento_003_video_002">
 
 </div>
 
