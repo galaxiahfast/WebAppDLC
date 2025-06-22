@@ -20,6 +20,7 @@
 [💡 Cómo funciona](#cómo-funciona) |
 [🛠️ Requisitos](#requisitos) |
 [🐛 Reportar problemas](https://github.com/TU_USUARIO/TU_REPO/issues) |
+[📚 Créditos y atribuciones](#-créditos-y-atribuciones) |
 [📬 Contacto](#contacto)
 
 </div>
@@ -80,9 +81,7 @@ Antes de tomar la decisión de crear este pequeño diseño web, se realizó una 
 
 # Créditos y atribuciones
 
-Este proyecto hace uso de tecnologías, contenidos académicos y recursos visuales que no son de autoría propia, por lo que, con el fin de respetar el trabajo intelectual de manera ética, se citan los artículos originales que documentan el desarrollo, validación y evolución de **[DeepLabCut™️](https://deeplabcut.github.io/DeepLabCut/README.html)** y **[SLEAP™️](https://sleap.ai/)**, los cuales constituyen los pilares importantes de esta herramienta web. También se han incorporado recursos visuales como el siguiente [video de un perro en alta resolución](https://www.pexels.com/video/close-up-view-of-a-cute-black-and-tan-short-coated-dog-7682696/) del autor [KoolShooters](https://www.pexels.com/@koolshooters/), ofrecido bajo licencia libre a través de Pexels, y se han utilizado materiales educativos disponibles en línea, como los artículos de IBM sobre [aprendizaje automático](https://www.ibm.com/mx-es/think/topics/machine-learning) y [aprendizaje profundo](https://www.ibm.com/es-es/think/topics/deep-learning), con el propósito de facilitar una mejor comprensión para el público general interesado en estas tecnologías.
-
-### Citaciones relevantes
+Este proyecto integra tecnologías, materiales académicos y elementos visuales cuya autoría no corresponde a los desarrolladores de esta aplicación; por esa razón, y en apego a principios éticos que exigen reconocer adecuadamente el trabajo intelectual de otros investigadores, se incluyen las referencias completas a los artículos científicos que describen con detalle el origen, la evolución técnica y las capacidades actuales de **[DeepLabCut™️](https://deeplabcut.github.io/DeepLabCut/README.html)** y **[SLEAP™️](https://sleap.ai/)**, los cuales constituyen la base metodológica sobre la que se sostiene el funcionamiento de esta propuesta web orientada al análisis automatizado de posturas en perros. También se ha incorporado un recurso visual representativo —[un video de un perro en alta resolución](https://www.pexels.com/video/close-up-view-of-a-cute-black-and-tan-short-coated-dog-7682696/) del autor [KoolShooters](https://www.pexels.com/@koolshooters/), disponible bajo licencia libre a través de la plataforma Pexels— así como materiales con fines formativos provenientes de fuentes abiertas y accesibles, entre los que destacan los artículos publicados por IBM sobre [aprendizaje automático](https://www.ibm.com/mx-es/think/topics/machine-learning) y [aprendizaje profundo](https://www.ibm.com/es-es/think/topics/deep-learning), los cuales fueron seleccionados por su claridad conceptual y utilidad para introducir al lector en los principios computacionales que sustentan este tipo de sistemas de análisis basados en redes neuronales profundas.
 
 ## Citaciones relevantes
 
