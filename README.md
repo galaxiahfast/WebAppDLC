@@ -20,7 +20,7 @@
 [💡 Cómo funciona](#cómo-funciona) |
 [🛠️ Requisitos](#requisitos) |
 [🐛 Reportar problemas](https://github.com/TU_USUARIO/TU_REPO/issues) |
-[📚 Créditos y atribuciones](créditos-y-atribuciones) |
+[📚 Créditos y atribuciones](#créditos-y-atribuciones) |
 [📬 Contacto](#contacto)
 
 </div>
