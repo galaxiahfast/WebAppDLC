@@ -44,7 +44,7 @@
   <a href="https://www.ibm.com/mx-es/think/topics/support-vector-machines"><img src="https://img.shields.io/badge/Modelo_SVM-darkslateblue" alt="SVM"></a>
   <a href="https://www.ibm.com/mx-es/think/topics/naive-bayes"><img src="https://img.shields.io/badge/Modelo_Naive_Bayes-goldenrod" alt="Naive Bayes"></a>
 
-  <a href="https://www.pexels.com/video/close-up-view-of-a-cute-black-and-tan-short-coated-dog-7682696/"><img src="https://img.shields.io/badge/Video_de_referencia-Pexels_KoolShooters-9cf" alt="Video de Pexels"></a>
+  <a href="https://www.pexels.com/video/close-up-view-of-a-cute-black-and-tan-short-coated-dog-7682696/"><img src="https://img.shields.io/badge/Videos_de_Referencia-Pexels_KoolShooters-9cf" alt="Video de Pexels"></a>
 
 </div>
 
@@ -58,9 +58,9 @@
 
 **[PoseDoggo](https://github.com/galaxiahfast/WebAppDLC/blob/main/README.md)** fue desarrollada como caso de estudio dentro de una tesis de licenciatura con el objetivo de demostrar cómo se puede lograr una integración funcional de programación orientada al **[aprendizaje automático](https://www.ibm.com/mx-es/think/topics/machine-learning)** y **[aprendizaje profundo](https://www.ibm.com/es-es/think/topics/deep-learning)** cuando se aplican al análisis de aspectos complejos de los comportamientos de perros, especialmente aquellos patrones de conducta que resultan difíciles de estudiar o que no podrían investigarse de manera efectiva mediante el uso de métodos cuantitativos tradicionales o enfoques experimentales convencionales en el campo de la **[etología](https://www.menteyciencia.com/etologia-que-es-y-cual-es-su-objeto-de-estudio/)** canina contemporánea.
 
-Como parte del proceso de **[PoseDoggo](https://github.com/galaxiahfast/WebAppDLC/blob/main/README.md)**, se realizó un análisis comparativo entre las herramientas de software libre **[SLEAP (Social LEAP Estimates Animal Poses)™️](https://sleap.ai/)** y **[DeepLabCut (DLC)™️](https://deeplabcut.github.io/DeepLabCut/README.html)** con el objetivo de identificar la alternativa más adecuada para implementar la detección de posturas en los perros definidos para los tres experimentos descritos anteriormente. Los criterios de evaluación incluyeron los requerimientos de poder de cómputo, las necesidades de memoria para la ejecución en GPU, la facilidad de uso del sistema y la disponibilidad de documentación técnica, lo que condujo a la selección de **[DeepLabCut™️](https://deeplabcut.github.io/DeepLabCut/README.html)**. Es importante aclarar que esto no implica que una herramienta sea mejor que otra, sino que, para esta investigación específica, **[DLC™️](https://deeplabcut.github.io/DeepLabCut/README.html)** resultó más adecuado.
+Como parte del proceso de **[PoseDoggo](https://github.com/galaxiahfast/WebAppDLC/blob/main/README.md)**, se realizó un análisis comparativo entre las herramientas de software libre **[SLEAP (Social LEAP Estimates Animal Poses)™️](https://sleap.ai/)** y **[DeepLabCut (DLC)™️](https://deeplabcut.github.io/DeepLabCut/README.html)** con el objetivo de identificar la alternativa más adecuada para implementar la detección de posturas en los perros definidos para los tres experimentos descritos anteriormente. Los criterios de evaluación incluyeron los requerimientos de poder de cómputo, las necesidades de memoria para la ejecución en GPU, la facilidad de uso del sistema y la disponibilidad de documentación técnica, lo que condujo a la selección de **[DeepLabCut™️](https://deeplabcut.github.io/DeepLabCut/README.html)**. Es importante aclarar que esto no implica que una herramienta sea mejor que otra, sino que **[DLC™️](https://deeplabcut.github.io/DeepLabCut/README.html)** resultó más adecuado para los objetivos específicos de esta investigación.
 
-A partir de esta selección surgió la idea del caso de estudio para el desarrollo del análisis de poses en estos tres experimentos de manera automática, creando una interfaz web intuitiva que, mediante modificaciones en el código de la aplicación, permitiera a los investigadores procesar y analizar videos de comportamiento canino sin requerir conocimientos avanzados de programación o configuraciones complejas de software especializado.
+A partir de esta selección surgió la idea del caso de estudio para desarrollar un análisis automático de poses en estos tres experimentos, mediante la creación de una interfaz web intuitiva que, a través de modificaciones específicas en el código de la aplicación, permitiera a los investigadores procesar y analizar videos de comportamiento canino sin requerir conocimientos avanzados de programación o configuraciones complejas de software especializado.
 
 [Lee más sobre el proyecto oficial de SLEAP aquí](https://sleap.ai/)
 
@@ -83,11 +83,11 @@ A partir de esta selección surgió la idea del caso de estudio para el desarrol
 
 
 
-# Créditos y atribuciones
+# 📚 Referencias
 
-Este proyecto usa tecnologías, materiales académicos y recursos visuales que no son nuestros, entonces para respetar el trabajo de otros se citan los artículos originales que explican cómo funcionan **[DeepLabCut™️](https://deeplabcut.github.io/DeepLabCut/README.html)** (licencia GNU LGPL v3.0, uso académico con citación requerida) y **[SLEAP™️](https://sleap.ai/)** (licencia Clear BSD, solo uso académico/investigación), que son la base de esta aplicación web para analizar posturas de perros. También se incluyen [videos de perros](https://www.pexels.com/video/close-up-view-of-a-cute-black-and-tan-short-coated-dog-7682696/) en alta resolución del autor [KoolShooters](https://www.pexels.com/@koolshooters/) disponibles gratis en Pexels (uso gratuito sin restricciones), junto con materiales educativos de IBM sobre [aprendizaje automático](https://www.ibm.com/mx-es/think/topics/machine-learning) y [aprendizaje profundo](https://www.ibm.com/es-es/think/topics/deep-learning) (sujetos a restricciones del contrato GSA ADP Schedule de IBM), recursos que ayudan a entender mejor estas tecnologías para cualquier persona que esté interesada en el tema.
+La creación de **[PoseDoggo](https://github.com/galaxiahfast/WebAppDLC/blob/main/README.md)** para análisis de posturas caninas se basa en el uso de tecnologías desarrolladas por terceros, lo que hace necesario reconocer apropiadamente el trabajo de otros investigadores mediante las citaciones correspondientes.
 
-## Citaciones relevantes
+Se hace el reconocimiento apropiado de los autores de las herramientas <a href="https://deeplabcut.github.io/DeepLabCut/README.html">DeepLabCut</a> que opera con licencia GNU LGPL v3.0 junto con <a href="https://sleap.ai/">SLEAP</a> distribuido bajo Clear BSD para mantener la integridad académica del proyecto mientras se respetan los derechos de propiedad intelectual de los desarrolladores mediante las siguientes citas bibliográficas.
 
 ```bibtex
 @article{Mathisetal2018,
@@ -161,3 +161,26 @@ Este proyecto usa tecnologías, materiales académicos y recursos visuales que n
     number = {4},
     year = {2022},
     publisher = {Nature Publishing Group}}
+```
+
+Se otorga el debido crédito al autor [KoolShooters](https://www.pexels.com/@koolshooters/) por el contenido visual de alta calidad disponible en la plataforma [Pexels](https://www.pexels.com/video/close-up-view-of-a-cute-black-and-tan-short-coated-dog-7682696/) (bajo licencia libre de restricciones) junto con el reconocimiento a IBM por sus materiales educativos sobre [aprendizaje automático](https://www.ibm.com/mx-es/think/topics/machine-learning) en complemento con recursos sobre [aprendizaje profundo](https://www.ibm.com/es-es/think/topics/deep-learning) (contenidos que operan bajo las condiciones establecidas en el contrato GSA ADP Schedule de IBM) para facilitar la comprensión de estas tecnologías avanzadas para investigadores, académicos o cualquier persona interesada en profundizar en el tema.
+
+# ✨ Cómo citar este trabajo
+
+Si este código, metodología o estructura han contribuido a tu proyecto académico, investigación o trabajo tecnológico, citar este repositorio como referencia no solo reconoce el esfuerzo invertido en su desarrollo, sino que también facilita a otros investigadores el acceso a herramientas útiles para sus propios proyectos.
+
+A continuación se proporciona la cita en formato BibTeX (o .bib), que incluye todos los elementos bibliográficos necesarios para su correcta incorporación en documentos académicos o profesionales.
+
+```bibtex
+@bachelorsthesis{OrtizRivero2025Tesis,
+  author       = {Ortiz Rivero, Julián Emiliano},
+  title        = {Análisis semi-automático de movimiento canino en videos mediante las herramientas de DeepLabCut y SLEAP},
+  school       = {Facultad de Matemáticas, Universidad Autónoma de Yucatán},
+  year         = {2025},
+  type         = {Tesis de Licenciatura},
+  address      = {Mérida, Yucatán, México},
+  url          = {https://github.com/galaxiahfast/WebAppDLC},
+  note         = {Repositorio en línea del código asociado a la tesis},
+}
+```
+Este proyecto fue realizado con fines académicos donde se busca contribuir a la divulgación científica haciendo que estas herramientas sean más accesibles para otros investigadores, por lo que se agradecerá cualquier mención, reconocimiento, colaboración futura o comentarios que puedan surgir de su uso.
