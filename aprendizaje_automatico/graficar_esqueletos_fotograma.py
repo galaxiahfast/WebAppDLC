@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 
-def leer_csv(filename="esqueletos_de_los_perros.csv"):
+def leer_csv(filename="esqueletos_perros.csv"):
     filepath = os.path.join(os.path.dirname(os.path.abspath(__file__)), filename)
     df = pd.read_csv(filepath, header=None)
     datos = df.iloc[:, :-1].values.tolist()
@@ -172,6 +172,6 @@ def generar_imagenes_individuales():
             plt.savefig(ruta, bbox_inches='tight')
             plt.close(fig)
 
-    print(f"Se generaron {len(frames) * 2} imágenes en 'img/sin_calculos' y 'img/con_calculos'")
+    print(f"Se generaron {len(frames) * 2} imágenes en 'img/esqueletos_graficados_sin_calculos' y 'img/esqueletos_graficados_con_calculos'")
 
 generar_imagenes_individuales()
