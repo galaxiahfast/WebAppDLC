@@ -152,8 +152,8 @@ def graficar_esqueleto(frame_data, ax, mostrar_calculos=False):
 def generar_imagenes_individuales():
     frames, clases = leer_csv()
     carpeta_base = os.path.join(os.path.dirname(os.path.abspath(__file__)), "img")
-    carpeta_sin = os.path.join(carpeta_base, "sin_calculos")
-    carpeta_con = os.path.join(carpeta_base, "con_calculos")
+    carpeta_sin = os.path.join(carpeta_base, "esqueletos_graficados_sin_calculos")
+    carpeta_con = os.path.join(carpeta_base, "esqueletos_graficados_con_calculos")
     os.makedirs(carpeta_sin, exist_ok=True)
     os.makedirs(carpeta_con, exist_ok=True)
 
