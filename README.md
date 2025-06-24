@@ -64,6 +64,8 @@ A partir de esta selección surgió la idea del caso de estudio para desarrollar
 
 [Lee más sobre el proyecto oficial de SLEAP aquí](https://sleap.ai/)
 
+
+
 # 📚 Referencias
 
 La creación de **[PoseDoggo](https://github.com/galaxiahfast/WebAppDLC/blob/main/README.md)** para análisis de posturas caninas se sustenta en el uso de tecnologías avanzadas desarrolladas por terceros, lo que hace necesario reconocer apropiadamente el trabajo de otros investigadores mediante las citaciones correspondientes.
