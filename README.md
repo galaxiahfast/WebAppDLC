@@ -40,7 +40,7 @@
   <a href="https://www.ibm.com/es-es/think/topics/k-nearest-neighbors"><img src="https://img.shields.io/badge/Modelo_KNN-blueviolet" alt="KNN"></a>
   <a href="https://www.ibm.com/mx-es/think/topics/random-forest"><img src="https://img.shields.io/badge/Modelo_Random_Forest-forestgreen" alt="Random Forest"></a>
   <a href="https://www.ibm.com/es-es/think/topics/decision-trees"><img src="https://img.shields.io/badge/Modelo_Decision_Tree-darkorange" alt="Decision Tree"></a>
-  <a href="https://www.ibm.com/mx-es/think/topics/logistic-regression"><img src="https://img.shields.io/badge/Modelo_Regresión_Logística-crimson" alt="Regresión Logística"></a>
+  <a href="https://www.ibm.com/mx-es/think/topics/logistic-regression"><img src="https://img.shields.io/badge/Modelo_Logistic_Regression-crimson" alt="Logistic Regression"></a>
   <a href="https://www.ibm.com/mx-es/think/topics/support-vector-machines"><img src="https://img.shields.io/badge/Modelo_SVM-darkslateblue" alt="SVM"></a>
   <a href="https://www.ibm.com/mx-es/think/topics/naive-bayes"><img src="https://img.shields.io/badge/Modelo_Naive_Bayes-goldenrod" alt="Naive Bayes"></a>
 
